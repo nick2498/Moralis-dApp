@@ -1,0 +1,9 @@
+Q. What Are Decentralized Applications (dApps)?
+- Decentralized applications (dApps) are digital applications or programs that exist and run on a blockchain or peer-to-peer (P2P) network of computers instead of a single computer.
+- DApps (also called "dapps") are outside the purview and control of a single authority.
+- DApps—which are often built on the Ethereum platform—can be developed for a variety of purposes including gaming, finance, and social media.
+# KEY TAKEAWAYS:
+- Decentralized applications—also known as "dApps" or "dapps"—are digital applications that run on a blockchain network of computers instead of relying on a single computer.
+- Because dApps are decentralized, they are free from the control and interference of a single authority.
+- Benefits of dApps include the safeguarding of user privacy, the lack of censorship, and the flexibility of development.
+- Drawbacks include the potential inability to scale, challenges in developing a user interface, and difficulties in making code modifications.
