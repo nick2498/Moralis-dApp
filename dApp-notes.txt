@@ -7,3 +7,26 @@ Q. What Are Decentralized Applications (dApps)?
 - Because dApps are decentralized, they are free from the control and interference of a single authority.
 - Benefits of dApps include the safeguarding of user privacy, the lack of censorship, and the flexibility of development.
 - Drawbacks include the potential inability to scale, challenges in developing a user interface, and difficulties in making code modifications.
+
+Q. What Is Decentralized Finance (DeFi)?
+- Decentralized finance (DeFi) is an emerging financial technology based on secure distributed ledgers similar to those used by cryptocurrencies.
+- The system removes the control banks and institutions have on money, financial products, and financial services.
+# Some of the key attractions of DeFi for many consumers are:
+- It eliminates the fees that banks and other financial companies charge for using their services.
+- You hold your money in a secure digital wallet instead of keeping it in a bank.
+- Anyone with an internet connection can use it without needing approval.
+- You can transfer funds in seconds and minutes.
+# KEY TAKEAWAYS:
+- Decentralized finance, or DeFi, uses emerging technology to remove third parties in financial transactions.
+- The components of DeFi are stablecoins, software, and hardware that enables the development of applications.
+- The infrastructure for DeFi and its regulation are still under development and debate.
+
+Q. How Does DeFi Work?
+- Decentralized finance uses the blockchain technology that cryptocurrencies use.
+- A blockchain is a distributed and secured database or ledger.
+- Applications called dApps are used to handle transactions and run the blockchain.
+- In the blockchain, transactions are recorded in blocks and then verified by other users.
+- If these verifiers agree on a transaction, the block is closed and encrypted; another block is created that has information about the previous block within it.
+- The blocks are "chained" together through the information in each proceeding block, giving it the name blockchain.
+- Information in previous blocks cannot be changed without affecting the following blocks, so there is no way to alter a blockchain.
+- This concept, along with other security protocols, provides the secure nature of a blockchain.
